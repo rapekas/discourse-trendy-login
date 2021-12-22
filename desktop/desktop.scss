@@ -66,8 +66,11 @@ body.static-login {
         &:hover {
           //box-shadow: 0px 0px 1px 1px rgb(149,101,101), 3px 7px 90px 0px rgba(218,255,103,.0)
           background-color: #518479;
-          border: #518479
         }
+
+        .sign-up-button {
+          display: none;
+          }
       }
     }
 
