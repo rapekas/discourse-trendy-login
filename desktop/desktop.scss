@@ -49,6 +49,10 @@ body.static-login {
       padding: 20px 2px 1px;
       justify-content: center;
 
+      .btn-primary .sign-up-button .btn .btn-text {
+        display: none
+      }
+
       .btn-primary {
         background-color: #8c6f6f;
         //border-radius: 4px;
@@ -116,6 +120,6 @@ body.static-login {
   }
 }
 
-#ember32 {
-  display: none;
-}
+//#ember32 {
+//  display: none;
+//}
