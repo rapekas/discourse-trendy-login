@@ -67,10 +67,6 @@ body.static-login {
           //box-shadow: 0px 0px 1px 1px rgb(149,101,101), 3px 7px 90px 0px rgba(218,255,103,.0)
           background-color: #518479;
         }
-
-        .sign-up-button {
-          display: none;
-          }
       }
     }
 
@@ -118,4 +114,8 @@ body.static-login {
     display: none;
     //justify-content: center;
   }
+}
+
+#ember32 {
+  display: none;
 }
