@@ -119,3 +119,8 @@ body.static-login {
     //justify-content: center;
   }
 }
+
+html body #main-outlet {
+	margin-top: 0px;
+	background: none;
+}
